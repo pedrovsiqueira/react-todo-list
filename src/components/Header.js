@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <h1>This is my header</h1>
+    <header className="navbar">This is my header</header>
   )
 }
 
